@@ -16,7 +16,7 @@ Bot will send last 5 messages for each number in each request. So use number and
 # ⚝ Installation
 1. **Clone repository**:
     ```bash
-    git clone https://github.com/Kourva/OnlineSimBot
+    git clone https://github.com/kozyol/OnlineSimBot
     ```
 2. **Navigate to OnlineSimBot**:
     ```bash
